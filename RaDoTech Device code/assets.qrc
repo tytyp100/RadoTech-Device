@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/photos">
+        <file>barGraphImg/bladder.png</file>
+        <file>barGraphImg/gallbladder.png</file>
+        <file>barGraphImg/heart.png</file>
+        <file>barGraphImg/kidney_adrenal.png</file>
+        <file>barGraphImg/large_intestine.png</file>
+        <file>barGraphImg/liver.png</file>
+        <file>barGraphImg/lungs.png</file>
+        <file>barGraphImg/lymph_vessel.png</file>
+        <file>barGraphImg/pericardium.png</file>
+        <file>barGraphImg/small_intestine.png</file>
+        <file>barGraphImg/spleen.png</file>
+        <file>barGraphImg/stomach.png</file>
+        <file>radotechScanningPhotos/point1.png</file>
+        <file>radotechScanningPhotos/point2.png</file>
+        <file>radotechScanningPhotos/point3.png</file>
+        <file>radotechScanningPhotos/point4.png</file>
+        <file>radotechScanningPhotos/point5.png</file>
+        <file>radotechScanningPhotos/point6.png</file>
+        <file>radotechScanningPhotos/point7.png</file>
+        <file>radotechScanningPhotos/point8.png</file>
+        <file>radotechScanningPhotos/point9.png</file>
+        <file>radotechScanningPhotos/point10.png</file>
+        <file>radotechScanningPhotos/point11.png</file>
+        <file>radotechScanningPhotos/point12.png</file>
+        <file>radotechScanningPhotos/point13.png</file>
+        <file>radotechScanningPhotos/point14.png</file>
+        <file>radotechScanningPhotos/point15.png</file>
+        <file>radotechScanningPhotos/point16.png</file>
+        <file>radotechScanningPhotos/point17.png</file>
+        <file>radotechScanningPhotos/point18.png</file>
+        <file>radotechScanningPhotos/point19.png</file>
+        <file>radotechScanningPhotos/point20.png</file>
+        <file>radotechScanningPhotos/point21.png</file>
+        <file>radotechScanningPhotos/point22.png</file>
+        <file>radotechScanningPhotos/point23.png</file>
+        <file>radotechScanningPhotos/point24.png</file>
+    </qresource>
+</RCC>
